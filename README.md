@@ -6,7 +6,7 @@ A recruiter-facing Business Intelligence portfolio project that turns sales tran
 
 ## Live Demo
 
-Deployment-ready; no live URL has been created yet.
+[Sales & Revenue Analysis Dashboard](https://sales-revenue-analysis-dashboard-2zpnbirmc-sentra6.vercel.app)
 
 ## Features
 
